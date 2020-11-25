@@ -115,6 +115,14 @@ func (h *Client) InstallReleaseFromChart(chart *chart.Chart, ns string, opts ...
 		return nil, err
 	}
 
+	
+	
+	
+	
+	
+	
+	
+	
 	return h.install(ctx, req)
 }
 
